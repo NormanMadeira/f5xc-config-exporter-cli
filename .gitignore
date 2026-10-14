@@ -1,0 +1,29 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Local exports and logs can contain customer configuration
+exports/
+logs/
+*.log
+*.zip
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.token
+secrets/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

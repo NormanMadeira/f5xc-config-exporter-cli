@@ -4,7 +4,7 @@
 
 **Export supported F5 Distributed Cloud configuration objects from a selected namespace.**
 
-[![Release](https://img.shields.io/github/v/release/NormanMadeira/f5xc-config-exporter-cli?label=latest%20release)](https://github.com/NormanMadeira/f5xc-config-exporter-cli/releases/latest)
+[![Release](https://img.shields.io/badge/release-v1.0-blue?logo=github)](https://github.com/NormanMadeira/f5xc-config-exporter-cli/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D4?logo=windows&logoColor=white)](https://github.com/NormanMadeira/f5xc-config-exporter-cli/releases/latest)
 [![Version](https://img.shields.io/badge/version-v1.0-cyan)](https://github.com/NormanMadeira/f5xc-config-exporter-cli/releases)
